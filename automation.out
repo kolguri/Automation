@@ -1,0 +1,269 @@
+2017-04-27 13:40:49 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - ===============strarting test===============
+2017-04-27 13:40:52 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (0cd368ff46a22453ed7c8e89dad897b5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-04-27 13:40:52 INFO  HomePage:37 - Entered email address:test@test.comand object is :test@test.com
+2017-04-27 13:40:52 INFO  HomePage:39 - Entered password:testand object is :test
+2017-04-27 13:40:53 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (0cd368ff46a22453ed7c8e89dad897b5)] -> xpath: //*[@id='SubmitLogin']]
+2017-04-27 13:40:53 INFO  HomePage:45 - Error Message is  :Invalid password.
+2017-04-27 13:40:53 INFO  HomePage:45 - Error Message is  :Invalid password.
+2017-04-27 13:40:53 INFO  TC001_VerifyLoginWithInvalidCredentials:33 - ===============Finished test===============
+2017-04-28 12:20:54 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-04-28 12:20:55 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (ba07f8fdc38f6c3673c64f57a0d56b1c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-04-28 12:20:55 INFO  HomePage:37 - Entered email address:test@test.comand object is :test@test.com
+2017-04-28 12:20:55 INFO  HomePage:39 - Entered password:testand object is :test
+2017-04-28 12:20:56 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (ba07f8fdc38f6c3673c64f57a0d56b1c)] -> xpath: //*[@id='SubmitLogin']]
+2017-04-28 12:20:56 INFO  HomePage:45 - Error Message is  :Invalid password.
+2017-04-28 12:20:56 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - ===============Finished TC002_VerifyMultipleLogins===============
+2017-04-28 13:18:26 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - ===============In BeforeTest After calling init===============
+2017-04-28 13:26:10 INFO  TC001_VerifyLoginWithInvalidCredentials:24 - ===============In BeforeTest After calling init===============
+2017-04-28 13:30:21 INFO  TC001_VerifyLoginWithInvalidCredentials:24 - ===============In BeforeTest After calling init===============
+2017-05-04 22:07:51 INFO  TC001_VerifyLoginWithInvalidCredentials:24 - =============== After calling init===============
+2017-05-04 22:09:09 INFO  TC002_VerifyMultipleLogins:24 - =============== After calling init===============
+2017-05-04 22:13:55 INFO  TC002_VerifyMultipleLogins:24 - =============== After calling init===============
+2017-05-04 22:15:07 INFO  TC002_VerifyMultipleLogins:24 - =============== After calling init===============
+2017-05-04 22:18:10 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:18:11 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:18:14 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:20:42 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:20:44 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:20:46 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:20:46 INFO  TC002_VerifyMultipleLogins:29 - =============== in dataprovider===============
+2017-05-04 22:23:20 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:23:22 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:23:29 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:25:30 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:25:31 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:25:37 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:25:37 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 22:35:23 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:35:25 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:35:28 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:35:28 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 22:35:28 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 22:39:32 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:39:34 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:39:37 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:39:37 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 22:39:37 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 22:41:29 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:41:31 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:41:34 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:41:34 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 22:44:49 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 22:49:57 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:49:59 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:50:02 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:50:02 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 22:50:02 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 22:50:45 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:50:46 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:50:50 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:50:50 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 22:50:50 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 22:54:35 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:54:36 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:54:39 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:54:39 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 22:54:39 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 22:55:31 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:55:32 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:55:35 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:55:35 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 22:55:35 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 22:57:08 INFO  TestBase:34 - creating chrome browser
+2017-05-04 22:57:09 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 22:57:12 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 22:57:12 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 22:57:12 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 23:13:19 INFO  TestBase:34 - creating chrome browser
+2017-05-04 23:13:21 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 23:13:23 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 23:13:23 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 23:13:23 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 23:14:55 INFO  TestBase:34 - creating chrome browser
+2017-05-04 23:14:56 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 23:14:59 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 23:14:59 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 23:14:59 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 23:17:23 INFO  TestBase:34 - creating chrome browser
+2017-05-04 23:17:25 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 23:17:28 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 23:17:28 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 23:17:28 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 23:17:28 INFO  TC002_VerifyMultipleLogins:31 - =============== in dataprovider after getting data===============
+2017-05-04 23:18:44 INFO  TestBase:34 - creating chrome browser
+2017-05-04 23:18:45 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 23:18:48 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 23:18:48 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xls
+2017-05-04 23:18:48 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xls
+2017-05-04 23:26:02 INFO  TestBase:34 - creating chrome browser
+2017-05-04 23:26:04 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 23:26:06 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 23:26:06 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 23:26:06 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 23:26:07 INFO  Excel_Reader:30 - in excel reader constructor&^&&^&&^&&$$$$$$$$:
+2017-05-04 23:26:07 INFO  TC002_VerifyMultipleLogins:31 - =============== in dataprovider after getting data===============
+2017-05-04 23:26:07 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-04 23:26:08 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (26e6c3c10092e334fcbc6c366fa2eb6f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:26:08 INFO  HomePage:37 - Entered email address:test1@test.comand object is :test1@test.com
+2017-05-04 23:26:08 INFO  HomePage:39 - Entered password:test1and object is :test1
+2017-05-04 23:27:10 INFO  HomePage:41 - Clicked on Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+2017-05-04 23:28:10 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-04 23:28:11 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (26e6c3c10092e334fcbc6c366fa2eb6f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:29:11 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-04 23:29:11 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (26e6c3c10092e334fcbc6c366fa2eb6f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:32:43 INFO  TestBase:34 - creating chrome browser
+2017-05-04 23:32:45 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 23:32:47 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 23:32:47 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 23:32:47 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 23:32:48 INFO  Excel_Reader:30 - in excel reader constructor&^&&^&&^&&$$$$$$$$:
+2017-05-04 23:32:48 INFO  TC002_VerifyMultipleLogins:31 - =============== in dataprovider after getting data===============
+2017-05-04 23:32:48 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-04 23:32:49 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (8b5e17d5f7f7ebeeeaaf2bd18a871a7c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:32:49 INFO  HomePage:37 - Entered email address:test1@test.comand object is :test1@test.com
+2017-05-04 23:32:49 INFO  HomePage:39 - Entered password:test1and object is :test1
+2017-05-04 23:33:11 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (8b5e17d5f7f7ebeeeaaf2bd18a871a7c)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-04 23:33:42 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-04 23:33:42 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-04 23:33:43 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (8b5e17d5f7f7ebeeeaaf2bd18a871a7c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:33:43 INFO  HomePage:37 - Entered email address:test2@test.comand object is :test2@test.com
+2017-05-04 23:33:43 INFO  HomePage:39 - Entered password:test2and object is :test2
+2017-05-04 23:33:44 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (8b5e17d5f7f7ebeeeaaf2bd18a871a7c)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-04 23:33:44 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-04 23:33:44 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-04 23:33:46 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (8b5e17d5f7f7ebeeeaaf2bd18a871a7c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:33:46 INFO  HomePage:37 - Entered email address:test4@test.comand object is :test4@test.com
+2017-05-04 23:33:46 INFO  HomePage:39 - Entered password:test4and object is :test4
+2017-05-04 23:33:46 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (8b5e17d5f7f7ebeeeaaf2bd18a871a7c)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-04 23:33:47 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-04 23:35:09 INFO  TestBase:34 - creating chrome browser
+2017-05-04 23:35:11 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-04 23:35:13 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-04 23:35:13 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-04 23:35:13 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-04 23:35:14 INFO  Excel_Reader:30 - in excel reader constructor&^&&^&&^&&$$$$$$$$:
+2017-05-04 23:35:14 INFO  TC002_VerifyMultipleLogins:31 - =============== in dataprovider after getting data===============
+2017-05-04 23:35:14 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-04 23:35:15 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (489979144f98b0a1ee36460d24c8faab)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:35:15 INFO  HomePage:37 - Entered email address:test1m@test.comand object is :test1m@test.com
+2017-05-04 23:35:15 INFO  HomePage:39 - Entered password:test1and object is :test1
+2017-05-04 23:35:16 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (489979144f98b0a1ee36460d24c8faab)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-04 23:35:16 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-04 23:35:16 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-04 23:35:17 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (489979144f98b0a1ee36460d24c8faab)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:35:18 INFO  HomePage:37 - Entered email address:test2@test.comand object is :test2@test.com
+2017-05-04 23:35:18 INFO  HomePage:39 - Entered password:test2and object is :test2
+2017-05-04 23:35:18 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (489979144f98b0a1ee36460d24c8faab)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-04 23:35:18 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-04 23:35:18 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-04 23:35:19 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (489979144f98b0a1ee36460d24c8faab)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-04 23:35:19 INFO  HomePage:37 - Entered email address:test4@test.comand object is :test4@test.com
+2017-05-04 23:35:20 INFO  HomePage:39 - Entered password:test4and object is :test4
+2017-05-04 23:35:20 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (489979144f98b0a1ee36460d24c8faab)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-04 23:35:20 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:12:07 INFO  TestBase:34 - creating chrome browser
+2017-05-05 10:12:09 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-05 10:12:12 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-05 10:12:12 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-05 10:12:12 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-05 10:12:13 INFO  Excel_Reader:30 - in excel reader constructor&^&&^&&^&&$$$$$$$$:
+2017-05-05 10:12:13 INFO  TC002_VerifyMultipleLogins:31 - =============== in dataprovider after getting data===============
+2017-05-05 10:12:13 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:12:14 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (fbfce7dfe20a39a084d365d08bffc25f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:12:14 INFO  HomePage:37 - Entered email address:test1m@test.comand object is :test1m@test.com
+2017-05-05 10:12:14 INFO  HomePage:39 - Entered password:test1and object is :test1
+2017-05-05 10:12:15 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (fbfce7dfe20a39a084d365d08bffc25f)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:12:15 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:12:15 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:12:16 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (fbfce7dfe20a39a084d365d08bffc25f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:12:16 INFO  HomePage:37 - Entered email address:test2@test.comand object is :test2@test.com
+2017-05-05 10:12:16 INFO  HomePage:39 - Entered password:test2and object is :test2
+2017-05-05 10:12:17 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (fbfce7dfe20a39a084d365d08bffc25f)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:12:17 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:12:17 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:12:18 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (fbfce7dfe20a39a084d365d08bffc25f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:12:18 INFO  HomePage:37 - Entered email address:test4@test.comand object is :test4@test.com
+2017-05-05 10:12:18 INFO  HomePage:39 - Entered password:test4and object is :test4
+2017-05-05 10:12:19 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (fbfce7dfe20a39a084d365d08bffc25f)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:12:19 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:16:03 INFO  TestBase:34 - creating chrome browser
+2017-05-05 10:16:05 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-05 10:16:07 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-05 10:16:07 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-05 10:16:07 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-05 10:16:08 INFO  Excel_Reader:30 - in excel reader constructor&^&&^&&^&&$$$$$$$$:
+2017-05-05 10:16:08 INFO  TC002_VerifyMultipleLogins:31 - =============== in dataprovider after getting data===============
+2017-05-05 10:16:08 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:16:09 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (88e17953915bead4e1b34ff8162d0459)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:16:09 INFO  HomePage:37 - Entered email address:test1m@test.comand object is :test1m@test.com
+2017-05-05 10:16:09 INFO  HomePage:39 - Entered password:test1and object is :test1
+2017-05-05 10:16:10 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (88e17953915bead4e1b34ff8162d0459)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:16:10 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:16:10 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:16:11 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (88e17953915bead4e1b34ff8162d0459)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:16:11 INFO  HomePage:37 - Entered email address:test2@test.comand object is :test2@test.com
+2017-05-05 10:16:12 INFO  HomePage:39 - Entered password:test2and object is :test2
+2017-05-05 10:16:12 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (88e17953915bead4e1b34ff8162d0459)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:16:12 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:16:12 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:16:14 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (88e17953915bead4e1b34ff8162d0459)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:16:14 INFO  HomePage:37 - Entered email address:test4@test.comand object is :test4@test.com
+2017-05-05 10:16:14 INFO  HomePage:39 - Entered password:test4and object is :test4
+2017-05-05 10:16:15 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (88e17953915bead4e1b34ff8162d0459)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:16:15 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:18:00 INFO  TestBase:34 - creating chrome browser
+2017-05-05 10:18:02 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-05 10:18:05 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-05 10:18:05 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-05 10:18:05 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-05 10:18:06 INFO  Excel_Reader:30 - in excel reader constructor&^&&^&&^&&$$$$$$$$:
+2017-05-05 10:18:06 INFO  TC002_VerifyMultipleLogins:31 - =============== in dataprovider after getting data===============
+2017-05-05 10:18:06 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:18:07 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (157e83892c8e8184d747d5ad9fedb490)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:18:07 INFO  HomePage:37 - Entered email address:test1m@test.comand object is :test1m@test.com
+2017-05-05 10:18:07 INFO  HomePage:39 - Entered password:test1and object is :test1
+2017-05-05 10:18:08 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (157e83892c8e8184d747d5ad9fedb490)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:18:08 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:18:08 INFO  TC002_VerifyMultipleLogins:43 - ===============Finished TC002_VerifyMultipleLogins===============
+2017-05-05 10:18:08 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:18:09 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (157e83892c8e8184d747d5ad9fedb490)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:18:09 INFO  HomePage:37 - Entered email address:test2@test.comand object is :test2@test.com
+2017-05-05 10:18:10 INFO  HomePage:39 - Entered password:test2and object is :test2
+2017-05-05 10:18:10 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (157e83892c8e8184d747d5ad9fedb490)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:18:10 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:18:10 INFO  TC002_VerifyMultipleLogins:43 - ===============Finished TC002_VerifyMultipleLogins===============
+2017-05-05 10:18:10 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:18:11 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (157e83892c8e8184d747d5ad9fedb490)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:18:11 INFO  HomePage:37 - Entered email address:test4@test.comand object is :test4@test.com
+2017-05-05 10:18:12 INFO  HomePage:39 - Entered password:test4and object is :test4
+2017-05-05 10:18:12 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (157e83892c8e8184d747d5ad9fedb490)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:18:12 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:18:12 INFO  TC002_VerifyMultipleLogins:43 - ===============Finished TC002_VerifyMultipleLogins===============
+2017-05-05 10:28:13 INFO  TestBase:34 - creating chrome browser
+2017-05-05 10:28:14 INFO  TestBase:41 - navigating to url:http://automationpractice.com/index.php
+2017-05-05 10:28:17 INFO  TC002_VerifyMultipleLogins:23 - =============== After calling init===============
+2017-05-05 10:28:17 INFO  TestBase:49 - path is :/Users/harikolguri/Documents/workspace/uiAutomation/src/main/java/com/yahoo/uiAutomation/data/TestData.xlsx
+2017-05-05 10:28:17 INFO  TestBase:50 - sheet name and excel name   is :LoginDetailsandTestData.xlsx
+2017-05-05 10:28:17 INFO  Excel_Reader:29 - =========In excel reader constructor=======
+2017-05-05 10:28:17 INFO  TC002_VerifyMultipleLogins:31 - =============== in dataprovider after getting data===============
+2017-05-05 10:28:17 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:28:19 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (a0cd46106b57ec75338082f8044b6fde)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:28:19 INFO  HomePage:37 - Entered email address:test1m@test.comand object is :test1m@test.com
+2017-05-05 10:28:19 INFO  HomePage:39 - Entered password:test1and object is :test1
+2017-05-05 10:28:20 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (a0cd46106b57ec75338082f8044b6fde)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:28:20 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:28:20 INFO  TC002_VerifyMultipleLogins:43 - ===============Finished TC002_VerifyMultipleLogins===============
+2017-05-05 10:28:20 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:28:21 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (a0cd46106b57ec75338082f8044b6fde)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:28:21 INFO  HomePage:37 - Entered email address:test2@test.comand object is :test2@test.com
+2017-05-05 10:28:21 INFO  HomePage:39 - Entered password:test2and object is :test2
+2017-05-05 10:28:22 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (a0cd46106b57ec75338082f8044b6fde)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:28:22 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:28:22 INFO  TC002_VerifyMultipleLogins:43 - ===============Finished TC002_VerifyMultipleLogins===============
+2017-05-05 10:28:22 INFO  TC002_VerifyMultipleLogins:39 - ===============strarting TC002_VerifyMultipleLogins===============
+2017-05-05 10:28:24 INFO  HomePage:35 - clicked on sign and signIn object is :[[ChromeDriver: chrome on MAC (a0cd46106b57ec75338082f8044b6fde)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-05-05 10:28:24 INFO  HomePage:37 - Entered email address:test4@test.comand object is :test4@test.com
+2017-05-05 10:28:24 INFO  HomePage:39 - Entered password:test4and object is :test4
+2017-05-05 10:28:25 INFO  HomePage:41 - Clicked on Submit Button and object is :[[ChromeDriver: chrome on MAC (a0cd46106b57ec75338082f8044b6fde)] -> xpath: //*[@id='SubmitLogin']]
+2017-05-05 10:28:25 INFO  HomePage:45 - Error Message is  :Authentication failed.
+2017-05-05 10:28:25 INFO  TC002_VerifyMultipleLogins:43 - ===============Finished TC002_VerifyMultipleLogins===============

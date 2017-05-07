@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+	<test name="Smoke Testing">
+      <classes>
+         <class name="com.yahoo.uiAutomation.homePage.TC002_VerifyMultipleLogins" />
+      </classes>
+	</test>
+</suite>
